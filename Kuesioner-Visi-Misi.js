@@ -1,4 +1,4 @@
-// Kusieoner Visi Misi
+// Kuesioner Visi Misi
 
 let input = 1;
 
