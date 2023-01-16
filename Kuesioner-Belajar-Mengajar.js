@@ -1,3 +1,5 @@
+// Kuesioner Belajar Mengajar
+
 let input = 5;
 
 for (let i = 1; i <= 40; i++) {
