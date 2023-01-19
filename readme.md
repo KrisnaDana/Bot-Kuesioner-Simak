@@ -1,4 +1,4 @@
-# Bot Kuisioner Simak
+# Bot Kuesioner Simak
 
 Bot for Kuesioner Simak Universitas Udayana.
 
